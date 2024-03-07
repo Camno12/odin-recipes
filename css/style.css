@@ -1,0 +1,26 @@
+html{
+    background-color:#cfb05b;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    text-align:center;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.div{
+    text-align:left;
+}
+
+a{
+    text-decoration:none;
+    color:brown;
+    transition:200ms;
+    
+}
+
+a:hover{
+    color:beige;
+    transition:200ms;
+    font-size:40px;
+}
+
