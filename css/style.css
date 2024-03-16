@@ -7,6 +7,15 @@ html{
     margin-right:50px;
 }
 
+.button{
+    box-sizing: border-box;
+    background-color: lightblue;
+    padding: 5px;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: brown;
+}
+
 .div{
     text-align:left;
 }
